@@ -9,4 +9,5 @@ Day - 7 : T Flip Flop <br/>
 Day - 8 : Decoder Using Demux <br/>
 Day - 10 : Binary to Gray Code converter <br/>
 Day - 11:  <br/>
-Day - 14: Serial In Serial Out Using D Flip Flop
+Day - 14: Serial In Serial Out Using D Flip Flop <br/>
+Day - 16: Synchronous Counter <br/>
