@@ -17,3 +17,6 @@ Day - 19 : Parameterized Serial In Parallel Out Shift Register <br/>
 Day - 20 : Johnson Counter <br/>
 Day - 21 : Posedge Detector <br/>
 Day - 22 : Modulo N-bit Up Down Counter <br/>
+Day - 23 : Immediate Assertions <br/>
+Day - 24 : Concurrent Assertions <br/>
+
