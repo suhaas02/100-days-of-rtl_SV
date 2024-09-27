@@ -19,4 +19,6 @@ Day - 21 : Posedge Detector <br/>
 Day - 22 : Modulo N-bit Up Down Counter <br/>
 Day - 23 : Immediate Assertions <br/>
 Day - 24 : Concurrent Assertions <br/>
-DAy - 25 : Multiplexer Using Tristate Buffer and Decoder <br/>
+Day - 25 : Multiplexer Using Tristate Buffer and Decoder <br/>
+Day - 26 : Single Port Ram <br/>
+
