@@ -1,3 +1,5 @@
+//keep the input and output files in the sim folder of the project. Otherwise it won't work. Even the input and output files are in the sim folder of the github after comitting 
+    
 module file_handling(); 
     integer channel_1; 
     integer i; 
