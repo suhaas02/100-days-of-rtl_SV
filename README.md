@@ -22,4 +22,4 @@ Day - 24 : Concurrent Assertions <br/>
 Day - 25 : Multiplexer Using Tristate Buffer and Decoder <br/>
 Day - 26 : Single Port Ram <br/>
 Day - 27 : Synchronous Dual Port Ram <br/>
-Day - 28 : File Handling <br/>
+Day - 28 : File Handling (Data writing & Monitoring)<br/>
