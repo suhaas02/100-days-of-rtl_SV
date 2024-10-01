@@ -24,5 +24,5 @@ Day - 26 : Single Port Ram <br/>
 Day - 27 : Synchronous Dual Port Ram <br/>
 Day - 28 : File Handling (Data writing & Monitoring)<br/>
 Day - 29 : Synchronous FIFO <br/>
-
+Day - 30 : N - bit Comparator <br/>
 
