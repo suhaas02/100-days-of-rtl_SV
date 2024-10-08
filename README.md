@@ -27,5 +27,6 @@ Day - 29 : Synchronous FIFO <br/>
 Day - 30 : N - bit Comparator <br/>
 Day - 31 : 4-bit Ring Counter Using 2:4 Decoder & 2-bit Counter <br/>
 Day - 32 : 32-bit SIPO using Generate <br/>
- 
+Day - 33 : Priority Encoder <br/>
+
 
